@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://vx13.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 初体验
+subtitle: 小虫的观察笔记
+author: 虫
 simple_search: http://google.com/search
-description:
+description: 只要有爱，就是永远的初体验。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
